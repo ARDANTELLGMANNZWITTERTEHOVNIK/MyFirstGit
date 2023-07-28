@@ -8,3 +8,5 @@ print("C")
 print("T")
 print("Y")
 print("!")
+for i in range(1, 11):
+    print(i)
